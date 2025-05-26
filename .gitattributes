@@ -1,1 +1,2 @@
-* text=auto 
+# paksa semua .json pakai LF di repo & working copy
+*.json text eol=lf
